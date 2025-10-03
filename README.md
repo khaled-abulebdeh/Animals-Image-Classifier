@@ -74,7 +74,9 @@ You can install all requirements using:
 
 ```bash
 pip install -r requirements.txt
+```
 
-Contributors
-Abdalraheem Shuaibi
-Khaled Abu Libdeh
+## Contributors
+* `Khaled Abu Lebdeh`
+* `Abdalraheem Shuaibi`
+

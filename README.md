@@ -77,6 +77,6 @@ pip install -r requirements.txt
 ```
 
 ## Contributors
-* `Khaled Abu Lebdeh
-* `Abdalraheem Shuaibi
+* Khaled Abu Lebdeh
+* Abdalraheem Shuaibi
 
